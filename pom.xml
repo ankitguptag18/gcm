@@ -3,9 +3,9 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.google.gcm</groupId>
-    <artifactId>gcm-server</artifactId>
-    <version>1.0.1</version>
+    <groupId>com.github.ankitguptag18</groupId>
+    <artifactId>gcm</artifactId>
+    <version>1.0.2</version>
     <packaging>jar</packaging>
     <name>GCM Java Server Client Library</name>
     <description>Manage GCM on server</description>
